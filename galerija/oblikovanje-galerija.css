@@ -1,0 +1,38 @@
+body {
+    font-size: larger;
+    background-color:rgb(116, 104, 68) ;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    max-width:40em;
+    margin: auto;
+
+}
+
+
+
+
+img {
+width: 100%;
+}
+
+h1 {
+    color: rgb(78, 62, 26);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:300;
+    background-color:rgb(143, 130, 89) ;
+    text-align: center;
+    font-size:100;
+}
+
+h2 {
+    font-weight:200;
+    font-size: 50;
+    text-align: center;
+
+}
+
+.desno-kazalo{
+    width: 50%;
+    float: right;
+
+}
